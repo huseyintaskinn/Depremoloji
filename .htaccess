@@ -1,0 +1,5 @@
+ErrorDocument 400 http://depremoloji.epizy.com/404.html
+ErrorDocument 401 http://depremoloji.epizy.com/404.html
+ErrorDocument 403 http://depremoloji.epizy.com/404.html
+ErrorDocument 404 http://depremoloji.epizy.com/404.html
+ErrorDocument 503 http://depremoloji.epizy.com/404.html
